@@ -2,10 +2,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/5e/71/b3/5e71b34bbde2f968403d16ced9a0796b.jpg"  />
-
-###
-
 <p data-importer="text" align="left">👨‍💻 About Me :<br><br>I am an aspiring Python developer from Russia, aiming to become a backend developer.<br><br>🚀 I am currently actively studying modern application architecture and Python backend development.<br><br>⚡️ In my free time, I practice writing clean code and explore automation and local AI tools.</p>
 
 ###
