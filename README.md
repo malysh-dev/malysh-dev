@@ -17,9 +17,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/malysh-dev/malysh-dev/snake-output/snake.svg" alt="Snake animation" />
-
-###
